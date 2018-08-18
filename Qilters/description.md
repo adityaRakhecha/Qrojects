@@ -18,7 +18,7 @@
 ![input1](https://user-images.githubusercontent.com/25251763/44302293-3741de00-a343-11e8-8c7b-8a1f0546e290.png)
 
 ## Output 1 :
-Filter 'Cool' was selected.
+Filter 'Cool' was selected. 
 ![output1](https://user-images.githubusercontent.com/25251763/44302303-56d90680-a343-11e8-93cc-325a47ed2cc8.png)
 
 ## Input 2 :
